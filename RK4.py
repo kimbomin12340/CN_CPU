@@ -1,5 +1,5 @@
 import numpy as np
-
+# 주석
 def function(t, y):
     return (1 + 2*t)*np.sqrt(y)
 ti = 0
